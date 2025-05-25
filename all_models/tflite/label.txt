@@ -1,0 +1,5 @@
+Oblong
+Oval
+Heart
+Square
+Round
