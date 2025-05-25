@@ -8,10 +8,10 @@ Sebuah proyek klasifikasi gambar menggunakan Convolutional Neural Network (CNN) 
 - [Dataset](#-dataset)
 - [Fitur Utama](#-fitur-utama)
 - [Instalasi](#-instalasi)
-- [Arsitektur Model](#-arsitektur-model)
+- [Arsitektur Model](#️-arsitektur-model)
 - [Hasil](#-hasil)
-- [Struktur File](#-struktur-file)
-- [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
+- [Struktur File](#-struktur-folder)
+- [Teknologi yang Digunakan](#️-teknologi-yang-digunakan)
 
 ## 🎯 Tentang Proyek
 
